@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adiya\\Documents\\Visual Studio 2022\\DailyTask\\WEEK6\\sendEmail\\SendEmailWithGoogleSMTP\\SendEmailWithGoogleSMTP.csproj",
+      "projectUniqueName": "C:\\Users\\adiya\\Documents\\Visual Studio 2022\\DailyTask\\WEEK6\\git empty folder\\sendEmail\\SendEmailWithGoogleSMTP\\SendEmailWithGoogleSMTP.csproj",
       "projectName": "SendEmailWithGoogleSMTP",
-      "projectPath": "C:\\Users\\adiya\\Documents\\Visual Studio 2022\\DailyTask\\WEEK6\\sendEmail\\SendEmailWithGoogleSMTP\\SendEmailWithGoogleSMTP.csproj",
+      "projectPath": "C:\\Users\\adiya\\Documents\\Visual Studio 2022\\DailyTask\\WEEK6\\git empty folder\\sendEmail\\SendEmailWithGoogleSMTP\\SendEmailWithGoogleSMTP.csproj",
       "packagesPath": "C:\\Users\\adiya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adiya\\Documents\\Visual Studio 2022\\DailyTask\\WEEK6\\sendEmail\\SendEmailWithGoogleSMTP\\obj\\",
+      "outputPath": "C:\\Users\\adiya\\Documents\\Visual Studio 2022\\DailyTask\\WEEK6\\git empty folder\\sendEmail\\SendEmailWithGoogleSMTP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
