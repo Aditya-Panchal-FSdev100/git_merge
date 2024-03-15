@@ -25,7 +25,7 @@ namespace SendEmailWithGoogleSMTP
                 var smtp = new System.Net.Mail.SmtpClient();
                 {
                     smtp.Host = "smtp.office365.com";
-                    smtp.Port = 587;
+                    smtp.Port = 587; // this is port
                     smtp.EnableSsl = true;
 
                     smtp.DeliveryMethod = System.Net.Mail.SmtpDeliveryMethod.Network;
@@ -39,7 +39,7 @@ namespace SendEmailWithGoogleSMTP
                 {
                     Port = 587,
                     Credentials = new NetworkCredential(fromEmail, fromPassword),
-                    EnableSsl = true,
+                    EnableSsl = true, // for enabling ssl
                 };
 
                 smtpClient.Send(message);
