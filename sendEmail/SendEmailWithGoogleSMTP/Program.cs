@@ -14,7 +14,7 @@ namespace SendEmailWithGoogleSMTP
                 string fromEmail = "adityajsn1299@gmail.com";
 
                 string fromPassword = "fdmewihbwhndjfdc";
-                MailMessage message = new MailMessage();
+                MailMessage message = new MailMessage(); //this is the new message
                 message.From = new MailAddress(fromEmail);
                 message.Subject = "Test Subject";
                 message.To.Add(new MailAddress("aditya.p@optimumfintech.co.in"));
